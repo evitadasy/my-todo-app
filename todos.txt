@@ -1,6 +1,4 @@
 Do laundry.
-Wake up
 Brush your teeth.
-Go outside
-Go shopping
-Do your Homewrk
+Clean the house.
+Do Python hw.
