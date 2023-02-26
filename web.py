@@ -22,7 +22,7 @@ for index,todo in enumerate(todos):
         del st.session_state[todo]
         st.experimental_rerun()
 
-st.write("<br>", unsafe_allow_html=True)
+st.write("This app helps to increase your <b>productivity</b>. Go ahead and try it!<br><br>", unsafe_allow_html=True)
 
 
 st.text_input(label="Enter a todo: ", placeholder="Write here the new todo..",
